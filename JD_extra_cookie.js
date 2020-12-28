@@ -21,7 +21,8 @@ hostname = wq.jd.com
 【Surge脚本配置】:
 ===================
 [Script]
-获取京东Cookie = type=http-request,pattern=^https:\/\/wq\.jd\.com\/user_new\/info\/GetJDUserInfoUnion,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/JD_extra_cookie.js,script-update-interval=0
+获取京东Cookie = type=http-request,pattern=^https:\/\/wq\.jd\.com\/user_new\/info\/GetJDUserInfoUnion,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/JD_extra_cookie.js,script-update-interval=0jd_7c21579d0b5ca===TrackerID=RUFYMHR9UXV6QgzOy6kbKFT9eO5mhuyXHcTW1MZxAvU43tvUmpnAt3JDivuI-hqpqSPsFHkzSsp38cuG1zsxpnvxis4OLFgZrKTXe8ZAxKU; pt_key=AAJf5e4wADAS_1Dkw0SP2XXxNNK6xxD-DDDO7wcY-6eTolwDdyaUpJjXmx-nEOyXYEtGbKrLXEk; pt_pin=jd_7c21579d0b5ca; pt_token=7wnvujkm; pwdt_id=jd_7c21579d0b5ca; guid=f5042828fe24992bbf7ff2266a59cdc937cb0f69eedf50df6b82604ad5f6af75; lang=chs; lsid=vh2d0bgmaxkmossk8yt1nj6b2unl2aux; lstoken=esxy0vr2; okl_token=4ecprxhn; s_key=AAJf5e4wADAD4E-FBYKW47IVm7WqIS5AbeVZShVpmMnFyyxtJxdWJi9qqGgpYQ1SlLRjpjvMN-8; s_pin=jd_7c21579d0b5ca; PDJ_H5_JDPIN=jd_7c21579d0b5ca; PDJ_H5_MOBILE=176****6455; PDJ_H5_PIN=JD_af506da19842000; deviceid_pdj_jd=H5_DEV_9E42B7EC-E086-4660-9B76-60A7ECCA3179; h5_coords_obj=""; o2o_m_h5_sid=3e3ff7a7-4bc2-45c8-907e-651b79a9d194
+
 
 ===================
 【Loon脚本配置】:
